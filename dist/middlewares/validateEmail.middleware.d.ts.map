@@ -1,0 +1,1 @@
+{"version":3,"file":"validateEmail.middleware.d.ts","sourceRoot":"","sources":["../../src/middlewares/validateEmail.middleware.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAE,QAAQ,EAAE,YAAY,EAAE,MAAM,SAAS,CAAC;AAE1D,eAAO,MAAM,aAAa,GACvB,kBAAmB,MACnB,KAAK,OAAO,EAAE,KAAK,QAAQ,EAAE,MAAM,YAAY,mDAS/C,CAAC"}

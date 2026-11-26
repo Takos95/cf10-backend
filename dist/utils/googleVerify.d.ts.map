@@ -1,0 +1,1 @@
+{"version":3,"file":"googleVerify.d.ts","sourceRoot":"","sources":["../../src/utils/googleVerify.ts"],"names":[],"mappings":"AAKA,MAAM,WAAW,iBAAiB;IAChC,GAAG,EAAE,MAAM,CAAC;IACZ,KAAK,EAAE,MAAM,CAAC;IACd,cAAc,EAAE,OAAO,CAAC;IACxB,IAAI,EAAE,MAAM,CAAC;IACb,OAAO,EAAE,MAAM,CAAC;CACjB;AAED,wBAAsB,mBAAmB,CACvC,OAAO,EAAE,MAAM,GACd,OAAO,CAAC,iBAAiB,GAAG,IAAI,CAAC,CAYnC"}
