@@ -24,4 +24,4 @@ Thumbs.db
 # Coverage
 coverage/
 
-*.code-workspace
+*Node.js.code-workspace
